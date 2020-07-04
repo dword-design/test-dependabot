@@ -1,0 +1,12 @@
+{
+  "name": "test-dependabot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dword-design/test-dependabot.git",
+  "author": "Sebastian Landwehr <sebastianlandw@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@dword-design/test": "^2.0.0",
+    "rxify-class": "^1.0.8"
+  }
+}
